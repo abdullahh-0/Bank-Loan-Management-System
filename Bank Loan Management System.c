@@ -629,7 +629,6 @@ void menu()
 int main() 
 {
 	system("COLOR 70");
-	header("======== By Umama Khan, Muhammad Abdullah & Manav Kumar ========");
 	header("Bank Loan Managment System");
     
 	menu();
